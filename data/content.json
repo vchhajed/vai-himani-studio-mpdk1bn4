@@ -1,0 +1,386 @@
+{
+  "navbar": {
+    "logoTagline": "Himani Studio",
+    "navLinks": [
+      {
+        "href": "#about",
+        "label": "About"
+      },
+      {
+        "href": "#services",
+        "label": "Services"
+      },
+      {
+        "href": "#collections",
+        "label": "Collections"
+      },
+      {
+        "href": "#cases",
+        "label": "Portfolio"
+      },
+      {
+        "href": "#clients",
+        "label": "Clients"
+      }
+    ],
+    "ctaLabel": "Book Consultation"
+  },
+  "categories": [
+    {
+      "label": "Couture",
+      "title": "Bridal &\nFormal Wear",
+      "img": "https://source.unsplash.com/1600x900/?business%2Coffice%2Cprofessional&sig=0",
+      "desc": "Exquisite bridal collections and formal evening wear crafted with precision and luxury fabrics."
+    },
+    {
+      "label": "Ready-to-Wear",
+      "title": "Contemporary\nEveryday Fashion",
+      "img": "https://source.unsplash.com/1600x900/?team%2Cmeeting%2Ccorporate&sig=1",
+      "desc": "Modern, versatile pieces designed for the confident individual with an eye for quality and style."
+    },
+    {
+      "label": "Custom Design",
+      "title": "Bespoke\nPersonalized Creations",
+      "img": "https://source.unsplash.com/1600x900/?city%2Cbuilding%2Cmodern&sig=2",
+      "desc": "Fully customized garments tailored to your vision, lifestyle, and body with meticulous attention to detail."
+    }
+  ],
+  "theme": {
+    "primary": "#10B981",
+    "primaryDark": "#10B981",
+    "secondary": "#047857",
+    "secondaryLight": "#047857",
+    "accent": "#6EE7B7",
+    "accentLight": "#6EE7B7"
+  },
+  "branding": {
+    "logoUrl": "",
+    "logoText": "Himani studio",
+    "headingFont": "Nunito",
+    "bodyFont": "Lato",
+    "selectedPalette": "forest-sage",
+    "logoSrc": "/uploads/logo.svg"
+  },
+  "hero": {
+    "badge": "BESPOKE FASHION",
+    "title": "Elevate Your Style\nwith Couture Craftsmanship.",
+    "subtitle": "Expertly Designed. Personally Crafted. Distinctly You.",
+    "phone": "+91 98765 43210",
+    "ctaText": "Get in Touch",
+    "stats": [
+      {
+        "num": "15+",
+        "label": "Years Expertise"
+      },
+      {
+        "num": "800+",
+        "label": "Happy Clients"
+      },
+      {
+        "num": "100%",
+        "label": "Custom Designs"
+      }
+    ]
+  },
+  "about": {
+    "sectionLabel": "About Himani Studio",
+    "heading": "Where Artistry Meets Exceptional Craftsmanship.",
+    "description": "At Himani Studio, we believe fashion is a personal expression. With over fifteen years of design expertise, we create bespoke garments that reflect your individual style and lifestyle. Our founder, Himani Desai — a celebrated fashion designer with training in Paris and Milan — leads a dedicated team committed to understanding each client's vision. We combine creative excellence with meticulous attention to detail, premium materials, and personalized service to deliver distinctive pieces that make a lasting impression. Every garment is a masterpiece designed exclusively for you.",
+    "checklist": [
+      "15+ Years of Fashion Design Excellence",
+      "Internationally Trained Design Team",
+      "Premium Materials & Sustainable Practices",
+      "Dedicated Personal Consultation Service"
+    ],
+    "vision": "To become the preferred destination for sophisticated, personalized fashion that celebrates individuality and empowers our clients to express their authentic style.",
+    "mission": "To craft exceptional bespoke garments that combine creative vision, superior craftsmanship, and premium quality, ensuring every piece reflects the unique personality and preferences of our clients."
+  },
+  "why": {
+    "sectionLabel": "Why Choose Himani Studio?",
+    "heading": "The Himani Difference",
+    "items": [
+      {
+        "title": "Personalized Design Consultation"
+      },
+      {
+        "title": "Premium, Ethically Sourced Fabrics"
+      },
+      {
+        "title": "Master Craftsmanship & Precision Tailoring"
+      },
+      {
+        "title": "Dedicated Design Team for Your Vision"
+      },
+      {
+        "title": "Unlimited Revisions Until Perfect"
+      },
+      {
+        "title": "Lifetime Care & Alterations"
+      }
+    ]
+  },
+  "certifications": {
+    "sectionLabel": "Our Credentials & Commitments",
+    "heading": "Excellence You Can Trust",
+    "items": [
+      {
+        "num": "01",
+        "title": "Founder Trained by International Fashion Houses"
+      },
+      {
+        "num": "02",
+        "title": "100% Bespoke & Custom Designs"
+      },
+      {
+        "num": "03",
+        "title": "Commitment to Sustainable & Ethical Fashion"
+      }
+    ]
+  },
+  "services": {
+    "sectionLabel": "Our Services",
+    "heading": "Comprehensive Fashion Design Solutions",
+    "items": [
+      {
+        "title": "Bespoke Couture Design",
+        "desc": "Complete custom design from concept to creation, including personal style consultation, fabric selection, and unlimited revisions."
+      },
+      {
+        "title": "Bridal & Occasion Wear",
+        "desc": "Exquisite wedding and formal event collections designed to capture your vision and celebrate your special moments in elegance."
+      },
+      {
+        "title": "Wardrobe Styling & Consultation",
+        "desc": "Expert guidance on building a cohesive wardrobe that reflects your personality, lifestyle, and individual aesthetic preferences."
+      }
+    ]
+  },
+  "brands": [
+    "Himani Studio Collections",
+    "Couture by Himani",
+    "Studio Atelier",
+    "Signature Bespoke",
+    "Fabric House Collaborations",
+    "Heritage Textiles",
+    "Artisan Partnerships",
+    "Design Excellence Series",
+    "Luxury Creations",
+    "Personal Style Collections",
+    "Timeless Elegance",
+    "Modern Sophistication",
+    "Bespoke Heirloom",
+    "Fashion Forward Designs",
+    "Premium Atelier"
+  ],
+  "caseStudies": [
+    {
+      "num": "01",
+      "title": "Ananya's Dream Wedding",
+      "client": "Client: Ananya Sharma",
+      "project": "Bridal Lehenga with Hand-Embroidered Details",
+      "desc": "Ananya envisioned a traditional bridal lehenga that honored her heritage while reflecting modern elegance. After three consultation sessions, we created a stunning forest sage silk lehenga with intricate zari and pearl embroidery. The custom-fitted choli and dupatta were crafted to perfection, making her the radiant centerpiece of her wedding day."
+    },
+    {
+      "num": "02",
+      "title": "Corporate Executive Refresh",
+      "client": "Client: Priya Malhotra (Business Leader)",
+      "project": "Tailored Formal Wardrobe Collection",
+      "desc": "Priya needed a refined collection of formal wear that projected confidence and professionalism. We designed five custom blazers, tailored trousers, and elegant formal dresses in premium fabrics. Each piece was meticulously fitted and created to seamlessly mix and match, giving her a versatile, cohesive professional wardrobe."
+    },
+    {
+      "num": "03",
+      "title": "Mother of the Bride",
+      "client": "Client: Deepa Deshmukh",
+      "project": "Custom Evening Saree with Modern Draping",
+      "desc": "Deepa wanted an elegant saree that balanced tradition with contemporary style for her daughter's wedding. We created a luxurious handloom saree with subtle embellishments and innovative draping techniques. The result was a showstopping piece that made her feel elegant, comfortable, and appropriately celebratory."
+    },
+    {
+      "num": "04",
+      "title": "International Diplomat's Wardrobe",
+      "client": "5-Year Partnership",
+      "project": "Formal & Casual Bespoke Collections",
+      "desc": "Through a referral from a satisfied client, we began creating custom formal wear and casual elegant pieces for an Indian diplomat stationed abroad. Over five years, we've designed multiple collections that combine Indian sophistication with international style sensibilities."
+    },
+    {
+      "num": "05",
+      "title": "Festival Fashion Series",
+      "client": "3-Year Collaboration",
+      "project": "Seasonal Collection Design",
+      "desc": "A regular client engaged us to design an entire seasonal wardrobe featuring festival wear, casual elegance, and everyday fashion. Our collaborative approach resulted in a cohesive collection of fifteen pieces that celebrate her personal style across all occasions."
+    },
+    {
+      "num": "06",
+      "title": "Engagement Ceremony Outfit",
+      "client": "Client: Meera Patel",
+      "project": "Custom Contemporary Ethnic Wear",
+      "desc": "Meera sought a modern interpretation of traditional engagement attire. We designed a bespoke contemporary ethnic outfit featuring handpicked fabrics, innovative silhouette, and personalized embroidery. The piece perfectly captured her blend of tradition and modernity."
+    }
+  ],
+  "clients": [
+    "Sharma Family Enterprises",
+    "Corporate Executive Services",
+    "Deshmukh Luxury Goods",
+    "Indian Diplomatic Mission",
+    "Patel Heritage Foundation",
+    "Luxury Wedding Consultants",
+    "Fashion Forward Events",
+    "Premium Lifestyle Brands",
+    "Elite Social Circle",
+    "International Relocations",
+    "Bespoke Fashion Enthusiasts",
+    "Heritage Preservation Society",
+    "Modern Indian Leaders",
+    "Exclusive Client Roster"
+  ],
+  "contact": {
+    "sectionLabel": "Let's Create Together",
+    "heading": "Start Your Bespoke Fashion Journey",
+    "subheading": "Schedule a personal consultation with our design team to explore your custom fashion needs and experience the Himani Studio difference.",
+    "phone": "+91 98765 43210",
+    "email": "hello@himanistudio.com",
+    "address": "Studio Atelier, Jubilee Hills,\nHyderabad 500033",
+    "businessType": "Fashion Design Studio"
+  },
+  "footer": {
+    "brandName": "Himani studio",
+    "tagline": "Bespoke fashion design and couture craftsmanship for the discerning individual. Elevating personal style through expertly crafted, custom-designed garments.",
+    "presentedBy": "Himani Desai",
+    "presentedEmail": "hello@himanistudio.com",
+    "presentedPhone": "+91 98765 43210",
+    "copyright": "© 2026 Himani studio. All rights reserved.",
+    "ctaText": "Get in Touch"
+  },
+  "products": {
+    "sectionLabel": "Our Collections",
+    "heading": "Bespoke Fashion Categories",
+    "flat": [
+      {
+        "title": "Bridal Couture",
+        "desc": "Exquisite bridal wear including lehengas, sarees, gowns, and complete wedding ensembles.",
+        "img": "https://source.unsplash.com/1600x900/?workspace%2Cclean%2Cbright&sig=3"
+      },
+      {
+        "title": "Formal Evening Wear",
+        "desc": "Sophisticated formal dresses, gowns, and sophisticated evening attire for special occasions.",
+        "img": "https://source.unsplash.com/1600x900/?professional%2Csuit%2Cconfident&sig=4"
+      },
+      {
+        "title": "Contemporary Ethnic",
+        "desc": "Modern interpretations of traditional wear with innovative silhouettes and embellishments.",
+        "img": "https://source.unsplash.com/1600x900/?office%2Cinterior%2Cmodern&sig=5"
+      },
+      {
+        "title": "Fusion Fashion",
+        "desc": "Creative blend of Eastern and Western styles for the globally conscious client.",
+        "img": "https://source.unsplash.com/1600x900/?brand%2Cidentity%2Cprofessional&sig=6"
+      }
+    ],
+    "tubular": [
+      {
+        "title": "Tailored Business Wear",
+        "desc": "Professional blazers, trousers, and formal shirts designed for corporate excellence.",
+        "img": "https://source.unsplash.com/1600x900/?growth%2Csuccess%2Cbusiness&sig=7"
+      },
+      {
+        "title": "Smart Casual Collection",
+        "desc": "Versatile everyday wear combining comfort with refined elegance and contemporary style.",
+        "img": "https://source.unsplash.com/1600x900/?business%2Coffice%2Cprofessional&sig=0"
+      },
+      {
+        "title": "Resort & Weekend Wear",
+        "desc": "Relaxed yet sophisticated pieces designed for leisure travel and weekend getaways.",
+        "img": "https://source.unsplash.com/1600x900/?team%2Cmeeting%2Ccorporate&sig=1"
+      }
+    ],
+    "structural": [
+      {
+        "title": "Sarees - Handloom",
+        "desc": "Artisanal handloom sarees with traditional weaving and contemporary design elements.",
+        "img": "https://source.unsplash.com/1600x900/?city%2Cbuilding%2Cmodern&sig=2"
+      },
+      {
+        "title": "Sarees - Contemporary",
+        "desc": "Modern saree designs with innovative draping, prints, and embellishment techniques.",
+        "img": "https://source.unsplash.com/1600x900/?workspace%2Cclean%2Cbright&sig=3"
+      },
+      {
+        "title": "Lehengas & Chaniya Choli",
+        "desc": "Complete traditional Indian outfits designed for weddings and festive celebrations.",
+        "img": "https://source.unsplash.com/1600x900/?professional%2Csuit%2Cconfident&sig=4"
+      },
+      {
+        "title": "Jackets & Shrugs",
+        "desc": "Layering pieces designed to enhance and complete your personalized fashion wardrobe.",
+        "img": "https://source.unsplash.com/1600x900/?office%2Cinterior%2Cmodern&sig=5"
+      },
+      {
+        "title": "Dupattas & Stoles",
+        "desc": "Embellished and woven stoles and dupattas to complement and complete your ensemble.",
+        "img": "https://source.unsplash.com/1600x900/?brand%2Cidentity%2Cprofessional&sig=6"
+      },
+      {
+        "title": "Custom Accessories",
+        "desc": "Personalized belts, ties, and fashion accessories designed to match your bespoke pieces.",
+        "img": "https://source.unsplash.com/1600x900/?growth%2Csuccess%2Cbusiness&sig=7"
+      }
+    ],
+    "roofing": [
+      {
+        "title": "Silk & Luxury Fabrics",
+        "desc": "Premium imported and domestic silk, linen, and luxury materials for couture creations.",
+        "img": "https://source.unsplash.com/1600x900/?business%2Coffice%2Cprofessional&sig=0"
+      },
+      {
+        "title": "Embroidery & Embellishments",
+        "desc": "Hand embroidery, zari work, beading, and intricate embellishment services for custom designs.",
+        "img": "https://source.unsplash.com/1600x900/?team%2Cmeeting%2Ccorporate&sig=1"
+      },
+      {
+        "title": "Dyeing & Printing",
+        "desc": "Custom fabric dyeing, block printing, and digital printing to achieve your exact color vision.",
+        "img": "https://source.unsplash.com/1600x900/?city%2Cbuilding%2Cmodern&sig=2"
+      },
+      {
+        "title": "Finishing & Details",
+        "desc": "Meticulous finishing including hand-stitched hems, closures, and interior labeling.",
+        "img": "https://source.unsplash.com/1600x900/?workspace%2Cclean%2Cbright&sig=3"
+      }
+    ],
+    "accessories": [
+      {
+        "title": "Style Consultation",
+        "desc": "Expert guidance on color, silhouette, and personal style to define your fashion aesthetic.",
+        "img": "https://source.unsplash.com/1600x900/?professional%2Csuit%2Cconfident&sig=4"
+      },
+      {
+        "title": "Fabric Selection Service",
+        "desc": "Curated selection of premium fabrics and materials sourced from global suppliers.",
+        "img": "https://source.unsplash.com/1600x900/?office%2Cinterior%2Cmodern&sig=5"
+      },
+      {
+        "title": "Fit & Alteration",
+        "desc": "Precision fitting sessions and lifetime alterations to ensure perfect fit throughout life.",
+        "img": "https://source.unsplash.com/1600x900/?brand%2Cidentity%2Cprofessional&sig=6"
+      },
+      {
+        "title": "Wardrobe Planning",
+        "desc": "Complete wardrobe curation and seasonal planning tailored to lifestyle and preferences.",
+        "img": "https://source.unsplash.com/1600x900/?growth%2Csuccess%2Cbusiness&sig=7"
+      },
+      {
+        "title": "Rush Design Service",
+        "desc": "Expedited custom design and creation for time-sensitive events and special occasions.",
+        "img": "https://source.unsplash.com/1600x900/?business%2Coffice%2Cprofessional&sig=0"
+      },
+      {
+        "title": "Garment Care & Storage",
+        "desc": "Professional cleaning, restoration, and preservation services for your bespoke pieces.",
+        "img": "https://source.unsplash.com/1600x900/?team%2Cmeeting%2Ccorporate&sig=1"
+      }
+    ]
+  },
+  "cta": {
+    "label": "Get in Touch",
+    "buttonText": "Get in Touch"
+  }
+}
